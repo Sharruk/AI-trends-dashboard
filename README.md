@@ -12,7 +12,7 @@ It showcases skills in **data visualization, storytelling, and analytics**.
 - Donut Chart: Distribution across Research, Industry, Business
 - Map: Country-wise adoption using coordinates
 - Slicer: Year filter for interactive analysis
-- Word Cloud (optional): Popular topics
+- Word Cloud: Popular topics
 
 ---
 
