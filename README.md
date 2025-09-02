@@ -32,8 +32,18 @@ It showcases skills in **data visualization, storytelling, and analytics**.
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](images/dashboard.png)
+## 📊 Dashboard Preview
+![Dashboard Overview](images/dashboard_overview.png)
+
+## 🔑 Key KPIs
+![KPI Cards](images/kpi_cards.png)
+
+## 📈 AI Research Trends
+![Trends Chart](images/trends_chart.png)
+
+## 🌍 Regional Analysis
+![Region Analysis](images/region_analysis.png)
+
 
 ---
 
