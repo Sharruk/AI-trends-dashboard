@@ -17,9 +17,9 @@ It showcases skills in **data visualization, storytelling, and analytics**.
 ---
 
 ## 📂 Files in this Repository
-- `AI_Trends_Extended_WithCoords.csv` → dataset
+- `AI_Trends.csv` → dataset
 - `AI_Trends_Dashboard.pbix` → Power BI project file
-- `report.pdf` → detailed project report
+- `AI_Trends_Dashboard_Report.pdf` → detailed project report
 - `images/` → dashboard snapshots
 
 ---
