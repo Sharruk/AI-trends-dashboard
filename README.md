@@ -33,19 +33,27 @@ It showcases skills in **data visualization, storytelling, and analytics**.
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Overview](images/dashboard_overview.png)
+<p align="center">
+  <img src="images/dashboard_overview.png" alt="Dashboard Overview" width="600"/>
+</p>
 
 ## 🔑 Key KPIs
-![KPI Cards](images/kpi_cards.png)
+<p align="center">
+  <img src="images/kpi_cards.png" alt="KPI Cards" width="600"/>
+</p>
 
 ## 📈 AI Research Trends
-![Trends Chart](images/trends_chart.png)
+<p align="center">
+  <img src="images/trends_chart.png" alt="Trends Chart" width="800"/>
+</p>
 
 ## 🌍 Regional Analysis
-![Region Analysis](images/region_analysis.png)
-
+<p align="center">
+  <img src="images/region_analysis.png" alt="Regional Analysis" width="600"/>
+</p>
 
 ---
+
 
 ## 📌 Skills Demonstrated
 - Power BI
