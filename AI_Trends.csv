@@ -1,0 +1,301 @@
+Year,Topic,Count,Country,Category,Latitude,Longitude
+2021,AI in Healthcare,459,US,Industry,37.0902,-95.7129
+2021,Generative AI,291,US,Research,37.0902,-95.7129
+2021,LLMs,74,US,Research,37.0902,-95.7129
+2021,AI in Finance,426,US,Business,37.0902,-95.7129
+2021,Robotics,56,US,Industry,37.0902,-95.7129
+2021,Autonomous Vehicles,65,US,Industry,37.0902,-95.7129
+2021,AI in Healthcare,456,UK,Industry,55.3781,-3.436
+2021,Generative AI,425,UK,Research,55.3781,-3.436
+2021,LLMs,80,UK,Research,55.3781,-3.436
+2021,AI in Finance,279,UK,Business,55.3781,-3.436
+2021,Robotics,167,UK,Industry,55.3781,-3.436
+2021,Autonomous Vehicles,409,UK,Industry,55.3781,-3.436
+2021,AI in Healthcare,468,Germany,Industry,51.1657,10.4515
+2021,Generative AI,315,Germany,Research,51.1657,10.4515
+2021,LLMs,269,Germany,Research,51.1657,10.4515
+2021,AI in Finance,194,Germany,Business,51.1657,10.4515
+2021,Robotics,51,Germany,Industry,51.1657,10.4515
+2021,Autonomous Vehicles,296,Germany,Industry,51.1657,10.4515
+2021,AI in Healthcare,108,France,Industry,46.6034,1.8883
+2021,Generative AI,85,France,Research,46.6034,1.8883
+2021,LLMs,492,France,Research,46.6034,1.8883
+2021,AI in Finance,229,France,Business,46.6034,1.8883
+2021,Robotics,188,France,Industry,46.6034,1.8883
+2021,Autonomous Vehicles,128,France,Industry,46.6034,1.8883
+2021,AI in Healthcare,376,India,Industry,20.5937,78.9629
+2021,Generative AI,471,India,Research,20.5937,78.9629
+2021,LLMs,374,India,Research,20.5937,78.9629
+2021,AI in Finance,486,India,Business,20.5937,78.9629
+2021,Robotics,159,India,Industry,20.5937,78.9629
+2021,Autonomous Vehicles,318,India,Industry,20.5937,78.9629
+2021,AI in Healthcare,303,China,Industry,35.8617,104.1954
+2021,Generative AI,226,China,Research,35.8617,104.1954
+2021,LLMs,387,China,Research,35.8617,104.1954
+2021,AI in Finance,467,China,Business,35.8617,104.1954
+2021,Robotics,124,China,Industry,35.8617,104.1954
+2021,Autonomous Vehicles,397,China,Industry,35.8617,104.1954
+2021,AI in Healthcare,181,Japan,Industry,36.2048,138.2529
+2021,Generative AI,317,Japan,Research,36.2048,138.2529
+2021,LLMs,236,Japan,Research,36.2048,138.2529
+2021,AI in Finance,279,Japan,Business,36.2048,138.2529
+2021,Robotics,246,Japan,Industry,36.2048,138.2529
+2021,Autonomous Vehicles,147,Japan,Industry,36.2048,138.2529
+2021,AI in Healthcare,230,Canada,Industry,56.1304,-106.3468
+2021,Generative AI,500,Canada,Research,56.1304,-106.3468
+2021,LLMs,416,Canada,Research,56.1304,-106.3468
+2021,AI in Finance,61,Canada,Business,56.1304,-106.3468
+2021,Robotics,498,Canada,Industry,56.1304,-106.3468
+2021,Autonomous Vehicles,92,Canada,Industry,56.1304,-106.3468
+2021,AI in Healthcare,472,Australia,Industry,-25.2744,133.7751
+2021,Generative AI,411,Australia,Research,-25.2744,133.7751
+2021,LLMs,390,Australia,Research,-25.2744,133.7751
+2021,AI in Finance,294,Australia,Business,-25.2744,133.7751
+2021,Robotics,489,Australia,Industry,-25.2744,133.7751
+2021,Autonomous Vehicles,297,Australia,Industry,-25.2744,133.7751
+2021,AI in Healthcare,415,Brazil,Industry,-14.235,-51.9253
+2021,Generative AI,362,Brazil,Research,-14.235,-51.9253
+2021,LLMs,95,Brazil,Research,-14.235,-51.9253
+2021,AI in Finance,237,Brazil,Business,-14.235,-51.9253
+2021,Robotics,413,Brazil,Industry,-14.235,-51.9253
+2021,Autonomous Vehicles,267,Brazil,Industry,-14.235,-51.9253
+2022,AI in Healthcare,401,US,Industry,37.0902,-95.7129
+2022,Generative AI,444,US,Research,37.0902,-95.7129
+2022,LLMs,259,US,Research,37.0902,-95.7129
+2022,AI in Finance,365,US,Business,37.0902,-95.7129
+2022,Robotics,301,US,Industry,37.0902,-95.7129
+2022,Autonomous Vehicles,236,US,Industry,37.0902,-95.7129
+2022,AI in Healthcare,207,UK,Industry,55.3781,-3.436
+2022,Generative AI,234,UK,Research,55.3781,-3.436
+2022,LLMs,277,UK,Research,55.3781,-3.436
+2022,AI in Finance,206,UK,Business,55.3781,-3.436
+2022,Robotics,263,UK,Industry,55.3781,-3.436
+2022,Autonomous Vehicles,348,UK,Industry,55.3781,-3.436
+2022,AI in Healthcare,153,Germany,Industry,51.1657,10.4515
+2022,Generative AI,487,Germany,Research,51.1657,10.4515
+2022,LLMs,295,Germany,Research,51.1657,10.4515
+2022,AI in Finance,110,Germany,Business,51.1657,10.4515
+2022,Robotics,458,Germany,Industry,51.1657,10.4515
+2022,Autonomous Vehicles,274,Germany,Industry,51.1657,10.4515
+2022,AI in Healthcare,492,France,Industry,46.6034,1.8883
+2022,Generative AI,340,France,Research,46.6034,1.8883
+2022,LLMs,244,France,Research,46.6034,1.8883
+2022,AI in Finance,443,France,Business,46.6034,1.8883
+2022,Robotics,293,France,Industry,46.6034,1.8883
+2022,Autonomous Vehicles,235,France,Industry,46.6034,1.8883
+2022,AI in Healthcare,65,India,Industry,20.5937,78.9629
+2022,Generative AI,206,India,Research,20.5937,78.9629
+2022,LLMs,93,India,Research,20.5937,78.9629
+2022,AI in Finance,414,India,Business,20.5937,78.9629
+2022,Robotics,328,India,Industry,20.5937,78.9629
+2022,Autonomous Vehicles,347,India,Industry,20.5937,78.9629
+2022,AI in Healthcare,491,China,Industry,35.8617,104.1954
+2022,Generative AI,202,China,Research,35.8617,104.1954
+2022,LLMs,70,China,Research,35.8617,104.1954
+2022,AI in Finance,445,China,Business,35.8617,104.1954
+2022,Robotics,243,China,Industry,35.8617,104.1954
+2022,Autonomous Vehicles,226,China,Industry,35.8617,104.1954
+2022,AI in Healthcare,118,Japan,Industry,36.2048,138.2529
+2022,Generative AI,312,Japan,Research,36.2048,138.2529
+2022,LLMs,308,Japan,Research,36.2048,138.2529
+2022,AI in Finance,400,Japan,Business,36.2048,138.2529
+2022,Robotics,100,Japan,Industry,36.2048,138.2529
+2022,Autonomous Vehicles,440,Japan,Industry,36.2048,138.2529
+2022,AI in Healthcare,274,Canada,Industry,56.1304,-106.3468
+2022,Generative AI,463,Canada,Research,56.1304,-106.3468
+2022,LLMs,91,Canada,Research,56.1304,-106.3468
+2022,AI in Finance,422,Canada,Business,56.1304,-106.3468
+2022,Robotics,481,Canada,Industry,56.1304,-106.3468
+2022,Autonomous Vehicles,468,Canada,Industry,56.1304,-106.3468
+2022,AI in Healthcare,164,Australia,Industry,-25.2744,133.7751
+2022,Generative AI,192,Australia,Research,-25.2744,133.7751
+2022,LLMs,102,Australia,Research,-25.2744,133.7751
+2022,AI in Finance,483,Australia,Business,-25.2744,133.7751
+2022,Robotics,163,Australia,Industry,-25.2744,133.7751
+2022,Autonomous Vehicles,284,Australia,Industry,-25.2744,133.7751
+2022,AI in Healthcare,487,Brazil,Industry,-14.235,-51.9253
+2022,Generative AI,393,Brazil,Research,-14.235,-51.9253
+2022,LLMs,252,Brazil,Research,-14.235,-51.9253
+2022,AI in Finance,394,Brazil,Business,-14.235,-51.9253
+2022,Robotics,299,Brazil,Industry,-14.235,-51.9253
+2022,Autonomous Vehicles,236,Brazil,Industry,-14.235,-51.9253
+2023,AI in Healthcare,388,US,Industry,37.0902,-95.7129
+2023,Generative AI,250,US,Research,37.0902,-95.7129
+2023,LLMs,100,US,Research,37.0902,-95.7129
+2023,AI in Finance,489,US,Business,37.0902,-95.7129
+2023,Robotics,393,US,Industry,37.0902,-95.7129
+2023,Autonomous Vehicles,76,US,Industry,37.0902,-95.7129
+2023,AI in Healthcare,386,UK,Industry,55.3781,-3.436
+2023,Generative AI,334,UK,Research,55.3781,-3.436
+2023,LLMs,140,UK,Research,55.3781,-3.436
+2023,AI in Finance,322,UK,Business,55.3781,-3.436
+2023,Robotics,260,UK,Industry,55.3781,-3.436
+2023,Autonomous Vehicles,176,UK,Industry,55.3781,-3.436
+2023,AI in Healthcare,498,Germany,Industry,51.1657,10.4515
+2023,Generative AI,457,Germany,Research,51.1657,10.4515
+2023,LLMs,490,Germany,Research,51.1657,10.4515
+2023,AI in Finance,250,Germany,Business,51.1657,10.4515
+2023,Robotics,423,Germany,Industry,51.1657,10.4515
+2023,Autonomous Vehicles,389,Germany,Industry,51.1657,10.4515
+2023,AI in Healthcare,80,France,Industry,46.6034,1.8883
+2023,Generative AI,280,France,Research,46.6034,1.8883
+2023,LLMs,299,France,Research,46.6034,1.8883
+2023,AI in Finance,75,France,Business,46.6034,1.8883
+2023,Robotics,89,France,Industry,46.6034,1.8883
+2023,Autonomous Vehicles,174,France,Industry,46.6034,1.8883
+2023,AI in Healthcare,80,India,Industry,20.5937,78.9629
+2023,Generative AI,487,India,Research,20.5937,78.9629
+2023,LLMs,125,India,Research,20.5937,78.9629
+2023,AI in Finance,298,India,Business,20.5937,78.9629
+2023,Robotics,117,India,Industry,20.5937,78.9629
+2023,Autonomous Vehicles,138,India,Industry,20.5937,78.9629
+2023,AI in Healthcare,268,China,Industry,35.8617,104.1954
+2023,Generative AI,53,China,Research,35.8617,104.1954
+2023,LLMs,437,China,Research,35.8617,104.1954
+2023,AI in Finance,215,China,Business,35.8617,104.1954
+2023,Robotics,215,China,Industry,35.8617,104.1954
+2023,Autonomous Vehicles,488,China,Industry,35.8617,104.1954
+2023,AI in Healthcare,246,Japan,Industry,36.2048,138.2529
+2023,Generative AI,234,Japan,Research,36.2048,138.2529
+2023,LLMs,138,Japan,Research,36.2048,138.2529
+2023,AI in Finance,429,Japan,Business,36.2048,138.2529
+2023,Robotics,144,Japan,Industry,36.2048,138.2529
+2023,Autonomous Vehicles,303,Japan,Industry,36.2048,138.2529
+2023,AI in Healthcare,324,Canada,Industry,56.1304,-106.3468
+2023,Generative AI,196,Canada,Research,56.1304,-106.3468
+2023,LLMs,308,Canada,Research,56.1304,-106.3468
+2023,AI in Finance,380,Canada,Business,56.1304,-106.3468
+2023,Robotics,270,Canada,Industry,56.1304,-106.3468
+2023,Autonomous Vehicles,340,Canada,Industry,56.1304,-106.3468
+2023,AI in Healthcare,67,Australia,Industry,-25.2744,133.7751
+2023,Generative AI,425,Australia,Research,-25.2744,133.7751
+2023,LLMs,100,Australia,Research,-25.2744,133.7751
+2023,AI in Finance,122,Australia,Business,-25.2744,133.7751
+2023,Robotics,64,Australia,Industry,-25.2744,133.7751
+2023,Autonomous Vehicles,219,Australia,Industry,-25.2744,133.7751
+2023,AI in Healthcare,459,Brazil,Industry,-14.235,-51.9253
+2023,Generative AI,454,Brazil,Research,-14.235,-51.9253
+2023,LLMs,494,Brazil,Research,-14.235,-51.9253
+2023,AI in Finance,304,Brazil,Business,-14.235,-51.9253
+2023,Robotics,340,Brazil,Industry,-14.235,-51.9253
+2023,Autonomous Vehicles,155,Brazil,Industry,-14.235,-51.9253
+2024,AI in Healthcare,432,US,Industry,37.0902,-95.7129
+2024,Generative AI,203,US,Research,37.0902,-95.7129
+2024,LLMs,402,US,Research,37.0902,-95.7129
+2024,AI in Finance,236,US,Business,37.0902,-95.7129
+2024,Robotics,294,US,Industry,37.0902,-95.7129
+2024,Autonomous Vehicles,478,US,Industry,37.0902,-95.7129
+2024,AI in Healthcare,267,UK,Industry,55.3781,-3.436
+2024,Generative AI,352,UK,Research,55.3781,-3.436
+2024,LLMs,209,UK,Research,55.3781,-3.436
+2024,AI in Finance,458,UK,Business,55.3781,-3.436
+2024,Robotics,418,UK,Industry,55.3781,-3.436
+2024,Autonomous Vehicles,442,UK,Industry,55.3781,-3.436
+2024,AI in Healthcare,147,Germany,Industry,51.1657,10.4515
+2024,Generative AI,277,Germany,Research,51.1657,10.4515
+2024,LLMs,439,Germany,Research,51.1657,10.4515
+2024,AI in Finance,431,Germany,Business,51.1657,10.4515
+2024,Robotics,199,Germany,Industry,51.1657,10.4515
+2024,Autonomous Vehicles,147,Germany,Industry,51.1657,10.4515
+2024,AI in Healthcare,476,France,Industry,46.6034,1.8883
+2024,Generative AI,239,France,Research,46.6034,1.8883
+2024,LLMs,402,France,Research,46.6034,1.8883
+2024,AI in Finance,142,France,Business,46.6034,1.8883
+2024,Robotics,267,France,Industry,46.6034,1.8883
+2024,Autonomous Vehicles,119,France,Industry,46.6034,1.8883
+2024,AI in Healthcare,146,India,Industry,20.5937,78.9629
+2024,Generative AI,473,India,Research,20.5937,78.9629
+2024,LLMs,302,India,Research,20.5937,78.9629
+2024,AI in Finance,497,India,Business,20.5937,78.9629
+2024,Robotics,425,India,Industry,20.5937,78.9629
+2024,Autonomous Vehicles,82,India,Industry,20.5937,78.9629
+2024,AI in Healthcare,453,China,Industry,35.8617,104.1954
+2024,Generative AI,298,China,Research,35.8617,104.1954
+2024,LLMs,55,China,Research,35.8617,104.1954
+2024,AI in Finance,100,China,Business,35.8617,104.1954
+2024,Robotics,323,China,Industry,35.8617,104.1954
+2024,Autonomous Vehicles,166,China,Industry,35.8617,104.1954
+2024,AI in Healthcare,421,Japan,Industry,36.2048,138.2529
+2024,Generative AI,377,Japan,Research,36.2048,138.2529
+2024,LLMs,484,Japan,Research,36.2048,138.2529
+2024,AI in Finance,271,Japan,Business,36.2048,138.2529
+2024,Robotics,375,Japan,Industry,36.2048,138.2529
+2024,Autonomous Vehicles,287,Japan,Industry,36.2048,138.2529
+2024,AI in Healthcare,401,Canada,Industry,56.1304,-106.3468
+2024,Generative AI,379,Canada,Research,56.1304,-106.3468
+2024,LLMs,189,Canada,Research,56.1304,-106.3468
+2024,AI in Finance,465,Canada,Business,56.1304,-106.3468
+2024,Robotics,232,Canada,Industry,56.1304,-106.3468
+2024,Autonomous Vehicles,240,Canada,Industry,56.1304,-106.3468
+2024,AI in Healthcare,307,Australia,Industry,-25.2744,133.7751
+2024,Generative AI,469,Australia,Research,-25.2744,133.7751
+2024,LLMs,301,Australia,Research,-25.2744,133.7751
+2024,AI in Finance,465,Australia,Business,-25.2744,133.7751
+2024,Robotics,149,Australia,Industry,-25.2744,133.7751
+2024,Autonomous Vehicles,244,Australia,Industry,-25.2744,133.7751
+2024,AI in Healthcare,273,Brazil,Industry,-14.235,-51.9253
+2024,Generative AI,76,Brazil,Research,-14.235,-51.9253
+2024,LLMs,404,Brazil,Research,-14.235,-51.9253
+2024,AI in Finance,267,Brazil,Business,-14.235,-51.9253
+2024,Robotics,159,Brazil,Industry,-14.235,-51.9253
+2024,Autonomous Vehicles,255,Brazil,Industry,-14.235,-51.9253
+2025,AI in Healthcare,411,US,Industry,37.0902,-95.7129
+2025,Generative AI,347,US,Research,37.0902,-95.7129
+2025,LLMs,496,US,Research,37.0902,-95.7129
+2025,AI in Finance,90,US,Business,37.0902,-95.7129
+2025,Robotics,255,US,Industry,37.0902,-95.7129
+2025,Autonomous Vehicles,135,US,Industry,37.0902,-95.7129
+2025,AI in Healthcare,164,UK,Industry,55.3781,-3.436
+2025,Generative AI,141,UK,Research,55.3781,-3.436
+2025,LLMs,340,UK,Research,55.3781,-3.436
+2025,AI in Finance,403,UK,Business,55.3781,-3.436
+2025,Robotics,444,UK,Industry,55.3781,-3.436
+2025,Autonomous Vehicles,229,UK,Industry,55.3781,-3.436
+2025,AI in Healthcare,249,Germany,Industry,51.1657,10.4515
+2025,Generative AI,369,Germany,Research,51.1657,10.4515
+2025,LLMs,330,Germany,Research,51.1657,10.4515
+2025,AI in Finance,333,Germany,Business,51.1657,10.4515
+2025,Robotics,390,Germany,Industry,51.1657,10.4515
+2025,Autonomous Vehicles,87,Germany,Industry,51.1657,10.4515
+2025,AI in Healthcare,214,France,Industry,46.6034,1.8883
+2025,Generative AI,484,France,Research,46.6034,1.8883
+2025,LLMs,104,France,Research,46.6034,1.8883
+2025,AI in Finance,86,France,Business,46.6034,1.8883
+2025,Robotics,53,France,Industry,46.6034,1.8883
+2025,Autonomous Vehicles,287,France,Industry,46.6034,1.8883
+2025,AI in Healthcare,220,India,Industry,20.5937,78.9629
+2025,Generative AI,434,India,Research,20.5937,78.9629
+2025,LLMs,324,India,Research,20.5937,78.9629
+2025,AI in Finance,206,India,Business,20.5937,78.9629
+2025,Robotics,376,India,Industry,20.5937,78.9629
+2025,Autonomous Vehicles,370,India,Industry,20.5937,78.9629
+2025,AI in Healthcare,401,China,Industry,35.8617,104.1954
+2025,Generative AI,122,China,Research,35.8617,104.1954
+2025,LLMs,149,China,Research,35.8617,104.1954
+2025,AI in Finance,366,China,Business,35.8617,104.1954
+2025,Robotics,223,China,Industry,35.8617,104.1954
+2025,Autonomous Vehicles,144,China,Industry,35.8617,104.1954
+2025,AI in Healthcare,211,Japan,Industry,36.2048,138.2529
+2025,Generative AI,289,Japan,Research,36.2048,138.2529
+2025,LLMs,306,Japan,Research,36.2048,138.2529
+2025,AI in Finance,478,Japan,Business,36.2048,138.2529
+2025,Robotics,231,Japan,Industry,36.2048,138.2529
+2025,Autonomous Vehicles,179,Japan,Industry,36.2048,138.2529
+2025,AI in Healthcare,491,Canada,Industry,56.1304,-106.3468
+2025,Generative AI,182,Canada,Research,56.1304,-106.3468
+2025,LLMs,441,Canada,Research,56.1304,-106.3468
+2025,AI in Finance,486,Canada,Business,56.1304,-106.3468
+2025,Robotics,151,Canada,Industry,56.1304,-106.3468
+2025,Autonomous Vehicles,408,Canada,Industry,56.1304,-106.3468
+2025,AI in Healthcare,348,Australia,Industry,-25.2744,133.7751
+2025,Generative AI,413,Australia,Research,-25.2744,133.7751
+2025,LLMs,213,Australia,Research,-25.2744,133.7751
+2025,AI in Finance,488,Australia,Business,-25.2744,133.7751
+2025,Robotics,413,Australia,Industry,-25.2744,133.7751
+2025,Autonomous Vehicles,436,Australia,Industry,-25.2744,133.7751
+2025,AI in Healthcare,440,Brazil,Industry,-14.235,-51.9253
+2025,Generative AI,164,Brazil,Research,-14.235,-51.9253
+2025,LLMs,433,Brazil,Research,-14.235,-51.9253
+2025,AI in Finance,441,Brazil,Business,-14.235,-51.9253
+2025,Robotics,333,Brazil,Industry,-14.235,-51.9253
+2025,Autonomous Vehicles,162,Brazil,Industry,-14.235,-51.9253
